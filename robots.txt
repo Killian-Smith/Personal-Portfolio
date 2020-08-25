@@ -1,0 +1,4 @@
+Sitemap: https://www.killiansmith.codes/sitemap.xml
+user-agent: *
+Disallow: /images/
+Disallow: /sitemap.xml/

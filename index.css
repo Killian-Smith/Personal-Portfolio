@@ -1,0 +1,213 @@
+
+/* Fonts Start */
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+/* Fonts End */
+
+body, html {
+    height: 100% !important;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+/* Nav Bar Start */
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Lexend Deca' !important;
+    font-size: 20px;
+    color: #fff !important;
+    padding-right: .8rem !important;
+    padding-left: .8rem !important;
+}
+
+.navbar-light .navbar-brand {
+    font-family: 'Lexend Deca' !important;
+    font-size: 24px;
+    color: #fff !important;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: transparent !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;  
+}
+/* Nav Bar End */
+
+/*Landing Page Start*/
+.land {
+    background-image: url(images/bg.jpg);
+    min-height: 969px !important;
+    background-size: cover;
+}
+
+.smith {
+    color: #6C63FF ;
+}
+
+.land-img {
+    padding-top: 200px;
+}
+
+.tagline {
+    color:#fff ;
+    padding-top: 195px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.9rem;
+    font-weight: 500;
+}
+
+.btn-custom {
+    border-radius: 2rem !important;
+    background-color: #6C63FF !important;
+    border-color: #6C63FF !important;
+    font-family: 'Roboto', sans-serif;
+    width: 140px;
+    margin-top: 40px; 
+    -webkit-appearance: none !important;
+}
+
+.title-tagline {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+/*Landing Page End*/
+
+/*About Me Start*/
+.about-me {
+    padding: 60px 50px 60px 50px;
+    background-color: #F5F8FD;
+}
+
+.img-about {
+    border-radius: 15px ;
+}
+
+.about-tagline {
+    color:black ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.about-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.span-killian {
+    color: #6772E5;
+}
+/*About Me End*/
+
+/*Work Start*/
+.work {
+    background-color: #fff;
+    padding: 60px 0 60px 0;
+}
+
+.card {
+    border: none !important;
+    border-radius: 1rem !important;
+    background-color: #F5F8FD !important;
+}
+
+.card-img-top {
+    border-radius: 1rem !important;
+}
+
+.btn-work {
+    border-radius: 2rem !important;
+    background-color: #6C63FF !important;
+    border-color: #6C63FF !important;
+    font-family: 'Roboto', sans-serif;
+    width: 140px;
+    margin-top: 20px;
+    -webkit-appearance: none;
+}
+
+.col {
+    padding:0 !important;
+}
+/*Work End*/
+
+/*Hire Me Start*/
+.hire-me {
+    padding: 60px 0 60px 0;
+    background-color: #F5F8FD;
+    border-radius: 1rem;
+}
+
+.hire-me .btn-contact {
+    border-radius: 100px;
+    background-color: #6772E5;
+    border-color: #6C63FF;
+    padding: 3px 23px 3px 23px;
+}
+
+.hire-me .form-control {
+    border-radius: 10px !important;
+    border: #fff;
+}
+
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    border-radius: 25px;
+
+}
+
+.map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.hire-me-bg {
+    background-color: #F5F8FD;
+}
+/*Hire Me End*/
+
+/*Footer Start */
+.footer {
+    background-color: #171C26;
+    padding: 40px 0 40px 0;
+}
+
+.footer-title {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.icon {
+    color: #6772E5;
+}
+
+.footer-email {
+    border-radius: 1rem !important;
+    border: none !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-nav {
+    color: #fff;
+    font-family: 'Lexend Deca' !important;
+}
+
+.footer-nav:hover {
+    text-decoration: none;
+}
+/*Footer End*/
+
+
+
+
+

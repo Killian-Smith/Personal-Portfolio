@@ -1,0 +1,52 @@
+@media only screen and (max-width: 768px) {
+
+    .land-img{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .tagline {
+        padding-top: 100px;
+    }
+
+    .land {
+        background-color: #212529;
+        min-height: 100% !important;
+        background-size: cover;
+    }
+
+    .btn-custom {
+        margin-top: 50px;
+    }
+
+    .card {
+        margin-top: 20px;
+    }
+
+    .hire-me {
+        padding: 10px !important;
+        border-radius: 20px;
+    }
+
+    .footer-follow {
+        margin-bottom: 1.6rem;
+    }
+
+    .footer-navigation {
+        margin-bottom: 1.6rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    
+    .about-me {
+        padding: 60px 0 60px 0;
+    }
+
+    .about-tagline {
+        padding-top: 15px;
+    }
+
+}
